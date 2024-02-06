@@ -1,1 +1,2 @@
 foo
+update foo from main project
